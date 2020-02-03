@@ -1,0 +1,11 @@
+{
+  "name": "babel-jsx-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "darius",
+  "license": "ISC"
+}
